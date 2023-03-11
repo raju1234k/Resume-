@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume </title>
+</head>
+<body>
+    <table width="1000" height="500" border="0" align="center">
+        <tr>
+            <th>
+                <h1 align="center" style="color: red;"> RESUME </h1>
+                <h1 align="left" style="color: black;">Introduction</h1>
+                <img src="raju.jpg" align="right" width="70" height="80">
+               <h2> <ul align="left" style="color: blue;">
+                      <li> Name- Raju Kumar </li>
+                               <li> Phone-7079676106 </li>
+                                <li>Email-raju........@gmail.com </li>
+                             </h2>
+                 <h2 align="center" style="color: blue;"> My name is Raju Kumar , A Student of Motihari College of engineering , Motihari  from Computer Science & engineering .
+                    Now I'm pursiung in 2nd year of b.tech. 
+                    <br> Primarily intrested in web developement after that App developement
+                 </h3>
+                 <h1 align="left" style="color: black;"> Acedemics </h1>
+                 <ul  style="color: blue;">
+                     <li align="left"> <h2>2021-2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;      
+                          pursiung in  2nd year of B.Tech from Motihari College of Engineering from 
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;    
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;   
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;   Computer Science & engineering. 
+                        <br> 
+                    </h2></li> 
+                    <li align="left"><h2> 2018-2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;   
+                         Pursued  Intermediate from Science stream  from Bihar Board .
+                    </h2></li>
+                    <li align="left"> <h2> 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;   
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;    Paseed Matriculation From Bihar Board.
+                    </h2></li>
+                    
+                </ul>
+                <h1 align="left" style="color: black;"> Experience </h1>
+                <h2 style="color: blue;">I have no any experience yet because i am a  student. 
+                    but i developed own personal website & a  simple App using wordpress.com </h2>
+                    <h1 style="color: black;" align="left"> Skills</h1>
+                    <ul align="left">
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JAVA SCRIPT</li>
+                    </ul>
+            </th>
+        </tr>
+    </table>
+</body>
+</html>
